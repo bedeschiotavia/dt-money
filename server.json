@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Website Development",
+      "type": "income",
+      "category": "sell",
+      "price": 4000,
+      "createdAt": "2025-01-01T19:05:14.619Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "food",
+      "price": 12,
+      "createdAt": "2025-01-13T19:05:04.619Z"
+    },
+    {
+      "id": 3,
+      "description": "Gas",
+      "type": "outcome",
+      "category": "car",
+      "price": 60,
+      "createdAt": "2025-01-15T19:05:04.619Z"
+    }
+  ]
+}
