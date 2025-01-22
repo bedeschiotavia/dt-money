@@ -23,6 +23,30 @@
       "category": "car",
       "price": 60,
       "createdAt": "2025-01-15T19:05:04.619Z"
+    },
+    {
+      "description": "App development",
+      "price": 1000,
+      "category": "sell",
+      "type": "income",
+      "createdAt": "2025-01-22T20:34:27.546Z",
+      "id": 4
+    },
+    {
+      "description": "Lunch",
+      "price": 24,
+      "category": "food",
+      "type": "outcome",
+      "createdAt": "2025-01-22T20:56:44.075Z",
+      "id": 5
+    },
+    {
+      "description": "Coffee",
+      "price": 2,
+      "category": "food",
+      "type": "outcome",
+      "createdAt": "2025-01-22T20:57:36.590Z",
+      "id": 6
     }
   ]
 }
